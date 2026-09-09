@@ -1,3 +1,7 @@
+# -- Path setup --------------------------------------------------------------
+
+import os
+
 # -- Project information -----------------------------------------------------
 
 project = 'VoLinhTruc_whoiam'
@@ -7,7 +11,14 @@ release = '1.0'
 
 # -- General configuration ---------------------------------------------------
 
-extensions = []
+extensions = [
+    'sphinxcontrib.plantuml',
+]
+
+plantuml = 'java -jar {}'.format(
+    os.path.join(os.path.dirname(__file__), 'plantuml/plantuml-1.2025.7.jar')
+)
+plantuml_output_format = 'svg'
 
 templates_path = ['_templates']
 exclude_patterns = []
