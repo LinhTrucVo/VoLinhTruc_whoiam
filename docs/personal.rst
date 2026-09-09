@@ -1,11 +1,9 @@
 Personal
 ========
 
-Project
--------
+.. toctree::
+   :maxdepth: 1
 
-My Road Map
------------
-
-Hoppy
------
+   personal/project
+   personal/my-road-map
+   personal/hoppy

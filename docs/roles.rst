@@ -1,62 +1,11 @@
 Roles
 =====
 
-Developer
----------
+.. toctree::
+   :maxdepth: 1
 
-What I know
-~~~~~~~~~~~
-
-What I did
-~~~~~~~~~~
-
-The stories and lesson
-~~~~~~~~~~~~~~~~~~~~~~
-
-Integration
------------
-
-What I know
-~~~~~~~~~~~
-
-What I did
-~~~~~~~~~~
-
-The stories and lesson
-~~~~~~~~~~~~~~~~~~~~~~
-
-Tester
-------
-
-What I know
-~~~~~~~~~~~
-
-What I did
-~~~~~~~~~~
-
-The stories and lesson
-~~~~~~~~~~~~~~~~~~~~~~
-
-Mentor
-------
-
-What I know
-~~~~~~~~~~~
-
-What I did
-~~~~~~~~~~
-
-The stories and lesson
-~~~~~~~~~~~~~~~~~~~~~~
-
-Scrum Coordinator
------------------
-
-What I know
-~~~~~~~~~~~
-
-What I did
-~~~~~~~~~~
-
-The stories and lesson
-~~~~~~~~~~~~~~~~~~~~~~
+   roles/developer
+   roles/integration
+   roles/tester
+   roles/mentor
+   roles/scrum-coordinator

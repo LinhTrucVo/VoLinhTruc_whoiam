@@ -1,98 +1,14 @@
 Soft skills
 ===========
 
-Stress Management
------------------
+.. toctree::
+   :maxdepth: 1
 
-What I know
-~~~~~~~~~~~
-
-What I did
-~~~~~~~~~~
-
-The stories and lesson
-~~~~~~~~~~~~~~~~~~~~~~
-
-Adaptability
-------------
-
-What I know
-~~~~~~~~~~~
-
-What I did
-~~~~~~~~~~
-
-The stories and lesson
-~~~~~~~~~~~~~~~~~~~~~~
-
-Logical Reasoning
------------------
-
-What I know
-~~~~~~~~~~~
-
-What I did
-~~~~~~~~~~
-
-The stories and lesson
-~~~~~~~~~~~~~~~~~~~~~~
-
-Accountability
---------------
-
-What I know
-~~~~~~~~~~~
-
-What I did
-~~~~~~~~~~
-
-The stories and lesson
-~~~~~~~~~~~~~~~~~~~~~~
-
-Time Management
----------------
-
-What I know
-~~~~~~~~~~~
-
-What I did
-~~~~~~~~~~
-
-The stories and lesson
-~~~~~~~~~~~~~~~~~~~~~~
-
-Training
---------
-
-What I know
-~~~~~~~~~~~
-
-What I did
-~~~~~~~~~~
-
-The stories and lesson
-~~~~~~~~~~~~~~~~~~~~~~
-
-Mentoring
----------
-
-What I know
-~~~~~~~~~~~
-
-What I did
-~~~~~~~~~~
-
-The stories and lesson
-~~~~~~~~~~~~~~~~~~~~~~
-
-Team Leadership
----------------
-
-What I know
-~~~~~~~~~~~
-
-What I did
-~~~~~~~~~~
-
-The stories and lesson
-~~~~~~~~~~~~~~~~~~~~~~
+   soft-skills/stress-management
+   soft-skills/adaptability
+   soft-skills/logical-reasoning
+   soft-skills/accountability
+   soft-skills/time-management
+   soft-skills/training
+   soft-skills/mentoring
+   soft-skills/team-leadership
